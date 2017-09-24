@@ -8,5 +8,9 @@ namespace bll
 {
     public class Class1
     {
+        public string test()
+        {
+            return new dal.Class1().test();
+        }
     }
 }
