@@ -23,5 +23,10 @@ namespace testgit
         {
             string add = b.Add();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(b.HelloWorld());
+        }
     }
 }
