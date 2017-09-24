@@ -1,5 +1,0 @@
-C:\Users\Jiahj\Desktop\testgit\dal\bin\Debug\dal.dll
-C:\Users\Jiahj\Desktop\testgit\dal\bin\Debug\dal.pdb
-C:\Users\Jiahj\Desktop\testgit\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
-C:\Users\Jiahj\Desktop\testgit\dal\obj\Debug\dal.dll
-C:\Users\Jiahj\Desktop\testgit\dal\obj\Debug\dal.pdb
