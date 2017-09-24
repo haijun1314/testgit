@@ -1,0 +1,5 @@
+D:\Git\testgit\dal\bin\Debug\dal.dll
+D:\Git\testgit\dal\bin\Debug\dal.pdb
+D:\Git\testgit\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+D:\Git\testgit\dal\obj\Debug\dal.dll
+D:\Git\testgit\dal\obj\Debug\dal.pdb
