@@ -1,0 +1,12 @@
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\testgit.exe.config
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\testgit.exe
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\testgit.pdb
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\bll.dll
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\common.dll
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\bll.pdb
+C:\Users\Jiahj\Desktop\testgit\testgit\bin\Debug\common.pdb
+C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.csprojResolveAssemblyReference.cache
+C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.Properties.Resources.resources
+C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.csproj.GenerateResource.Cache
+C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.exe
+C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.pdb
