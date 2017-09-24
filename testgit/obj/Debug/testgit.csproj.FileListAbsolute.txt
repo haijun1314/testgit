@@ -24,3 +24,4 @@ D:\Git\testgit\testgit\obj\Debug\testgit.Properties.Resources.resources
 D:\Git\testgit\testgit\obj\Debug\testgit.csproj.GenerateResource.Cache
 D:\Git\testgit\testgit\obj\Debug\testgit.exe
 D:\Git\testgit\testgit\obj\Debug\testgit.pdb
+D:\Git\testgit\testgit\obj\Debug\testgit.Form1.resources

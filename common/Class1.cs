@@ -8,5 +8,8 @@ namespace common
 {
     public class Class1
     {
+        public void SendEmail()
+        {
+        }
     }
 }

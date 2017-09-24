@@ -17,5 +17,10 @@ namespace dal
         {
             return "Hello World";
         }
+
+        public string Add()
+        {
+            return "add";
+        }
     }
 }

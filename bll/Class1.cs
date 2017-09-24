@@ -17,5 +17,9 @@ namespace bll
         {
             return new dal.Class1().HelloWorld();
         }
+        public string Add()
+        {
+            return new dal.Class1().Add();
+        }
     }
 }
