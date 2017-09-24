@@ -12,5 +12,10 @@ namespace bll
         {
             return new dal.Class1().test();
         }
+
+        public string HelloWorld()
+        {
+            return new dal.Class1().HelloWorld();
+        }
     }
 }
