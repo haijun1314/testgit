@@ -1,0 +1,7 @@
+C:\Users\Jiahj\Desktop\testgit\bll\bin\Debug\bll.dll
+C:\Users\Jiahj\Desktop\testgit\bll\bin\Debug\bll.pdb
+C:\Users\Jiahj\Desktop\testgit\bll\bin\Debug\dal.dll
+C:\Users\Jiahj\Desktop\testgit\bll\bin\Debug\dal.pdb
+C:\Users\Jiahj\Desktop\testgit\bll\obj\Debug\bll.csprojResolveAssemblyReference.cache
+C:\Users\Jiahj\Desktop\testgit\bll\obj\Debug\bll.dll
+C:\Users\Jiahj\Desktop\testgit\bll\obj\Debug\bll.pdb
