@@ -10,3 +10,17 @@ C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.Properties.Resources.re
 C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.csproj.GenerateResource.Cache
 C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.exe
 C:\Users\Jiahj\Desktop\testgit\testgit\obj\Debug\testgit.pdb
+D:\Git\testgit\testgit\bin\Debug\testgit.exe.config
+D:\Git\testgit\testgit\bin\Debug\testgit.exe
+D:\Git\testgit\testgit\bin\Debug\testgit.pdb
+D:\Git\testgit\testgit\bin\Debug\bll.dll
+D:\Git\testgit\testgit\bin\Debug\common.dll
+D:\Git\testgit\testgit\bin\Debug\dal.dll
+D:\Git\testgit\testgit\bin\Debug\bll.pdb
+D:\Git\testgit\testgit\bin\Debug\common.pdb
+D:\Git\testgit\testgit\bin\Debug\dal.pdb
+D:\Git\testgit\testgit\obj\Debug\testgit.csprojResolveAssemblyReference.cache
+D:\Git\testgit\testgit\obj\Debug\testgit.Properties.Resources.resources
+D:\Git\testgit\testgit\obj\Debug\testgit.csproj.GenerateResource.Cache
+D:\Git\testgit\testgit\obj\Debug\testgit.exe
+D:\Git\testgit\testgit\obj\Debug\testgit.pdb

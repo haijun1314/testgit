@@ -3,3 +3,7 @@ C:\Users\Jiahj\Desktop\testgit\common\bin\Debug\common.pdb
 C:\Users\Jiahj\Desktop\testgit\common\obj\Debug\common.csprojResolveAssemblyReference.cache
 C:\Users\Jiahj\Desktop\testgit\common\obj\Debug\common.dll
 C:\Users\Jiahj\Desktop\testgit\common\obj\Debug\common.pdb
+D:\Git\testgit\common\bin\Debug\common.dll
+D:\Git\testgit\common\bin\Debug\common.pdb
+D:\Git\testgit\common\obj\Debug\common.dll
+D:\Git\testgit\common\obj\Debug\common.pdb
