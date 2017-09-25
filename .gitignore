@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/testgit/v14
+/bll/bin/Debug
+/bll/obj/Debug
+/common/bin/Debug
+/dal/bin/Debug
+/dal/obj/Debug
+/testgit/bin/Debug
+/testgit/obj/Debug
+/common/obj/Debug

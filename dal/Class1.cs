@@ -22,5 +22,10 @@ namespace dal
         {
             return "add";
         }
+
+        public string Add2()
+        {
+            return "add2";
+        }
     }
 }

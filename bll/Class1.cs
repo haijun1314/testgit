@@ -21,5 +21,10 @@ namespace bll
         {
             return new dal.Class1().Add();
         }
+
+        public string Add2()
+        {
+            return new dal.Class1().Add2();
+        }
     }
 }

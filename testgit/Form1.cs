@@ -22,6 +22,7 @@ namespace testgit
         private void Form1_Load(object sender, EventArgs e)
         {
             string add = b.Add();
+            string add2 = b.Add2();
         }
 
         private void button1_Click(object sender, EventArgs e)
