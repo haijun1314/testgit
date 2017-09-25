@@ -15,5 +15,9 @@ namespace common
         public void SqlHelper()
         {
         }
+
+        public void ReceivingInformation()
+        {
+        }
     }
 }
