@@ -11,5 +11,9 @@ namespace common
         public void SendEmail()
         {
         }
+
+        public void SqlHelper()
+        {
+        }
     }
 }
